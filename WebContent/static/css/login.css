@@ -1,0 +1,44 @@
+
+.cont{
+	
+	width: 348px;
+    height: 396px;
+    margin: 60px 929px;
+    background: #bfcbd8;
+    background: rgba(84, 144, 218, 0.35);
+    border-radius: 6px;
+    
+} 
+.cont .inputBox {
+	height: 30px;
+   	opacity: 0.6;
+}
+.cont .inputBox input{
+	width: 280px;
+    height: 50px;
+    padding-left: 16px;
+    line-height: 38px;
+    font-size: 22px;
+    background: #e2e9f9;
+    color: #464242;
+    border: none;
+    border-radius: 2px;
+}
+
+.cont .login_btn{
+    width: 88%;
+    height: 46px;
+    padding-left: 16px;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    font-family: 微软雅黑;
+    background: #458fce;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+
+.cont .login_btn:hover {
+	 background: #3499da;
+}
